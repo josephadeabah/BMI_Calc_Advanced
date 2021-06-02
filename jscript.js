@@ -26,6 +26,6 @@
 }
 
 
-document.write(calculateBMI(1534,6))
+/*document.write(calculateBMI(1534,6))*/
 
 
