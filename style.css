@@ -21,10 +21,8 @@ div{
         
 }
 h1{
-    animation: blinker 1.5s linear infinite;
     color: teal;
     border-radius: 20px;
-    box-shadow:10px 10px 20px teal;
     padding: 10px;
 
 }
@@ -64,7 +62,7 @@ h2{
     margin-top: 10px;
     border: none;
     color: #fff;
-    background-image: linear-gradient(120deg, #39a6a3, dodgerblue, teal);
+    background-image: linear-gradient(120deg, #39a6a3, dodgerblue, rgb(127, 175, 175));
     width: 150px;
     padding: 10px;
     border-radius: 30px;
